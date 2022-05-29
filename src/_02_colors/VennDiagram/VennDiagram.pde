@@ -11,4 +11,6 @@ ellipse (273, 170, 125, 100);
 
 fill(255, 0, 0, 100);
 
-text("I am cool", 253, 160);
+text("I am cool", 210, 130);
+text("I am a nice person", 280, 130);
+text("The End", 250, 190);
