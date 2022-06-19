@@ -32,9 +32,14 @@ public class RobotInSpace extends KeyboardAdapter {
 	private void moveRobot(int keyPressed) {
 		// 2. Print out the keyPressed variable and write down the numbers for
 		// each arrow key
-		
+		int keyPressed1 ;
+		int uparrow ;
+		int downarrow ;
+		int right ;
+		int left ;
+	
 		// 3. If the up arrow is pressed, move the Robot up the screen.
-		
+		if 
 		// 4. If the down arrow is pressed, move the Robot down.
 		
 		// 5. If the left arrow is pressed, make the Robot go left.
